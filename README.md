@@ -3,6 +3,7 @@
 ## Sistema Inteligente de Recomendação de Periféricos
 
 Integrantes: 
+
 • Arthur Felipe Rodrigues  
 • Arthur Cordeiro da Silva 
 • Felipe Henrique Ribeiro do Santos 
