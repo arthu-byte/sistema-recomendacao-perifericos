@@ -5,10 +5,10 @@
 Integrantes: 
 
 • Arthur Felipe Rodrigues  
-• Arthur Cordeiro da Silva 
+• Arthur Cordeiro da Silva  
 • Felipe Henrique Ribeiro do Santos  
 • Igor França Candido  
-• Gabriel Francisco Alves da Silva 
+• Gabriel Francisco Alves da Silva  
 Professor: Mauro Rodrigues Alves Nogueira  
 Disciplina: Desenvolvimento Rápido de Aplicações em Python
 
